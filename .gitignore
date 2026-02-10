@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-secrets.txt
 =======
->>>>>>> feature-local
+secrets.txt
+>>>>>>> 0662d771aaed6598ede197ea263749425d1e3f39
 #password
 password.txt
 *.log
